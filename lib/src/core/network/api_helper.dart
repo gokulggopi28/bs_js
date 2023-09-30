@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:bs_js/src/core/network/api_reposnse.dart';
+import 'package:bs_js/src/core/network/api_response.dart';
 import 'package:dio/dio.dart';
 
 class ApiHelper {
